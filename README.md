@@ -1,32 +1,78 @@
-# Securify
+# Securify - Güvenli Şifre Yönetimi ve Analizi
 
-**Securify**, kullanıcıların şifrelerinin güvenlik seviyesini analiz eden ve güçlü, tahmin edilmesi zor şifreler oluşturmayı kolaylaştıran bir güvenlik aracıdır. Dijital hesaplarınızın güvenliğini artırmak için hızlı ve etkili çözümler sunar.
+![Securify Logo]([https://link_to_your_logo_image](https://aksoycati.com/wp-content/uploads/2025/11/app_logo.png))
 
-## Özellikler
+**Securify**, dijital güvenliğinizi bir üst seviyeye taşır. Kullanıcıların şifrelerinin güvenlik seviyesini analiz eder, güçlü şifreler oluşturmanıza yardımcı olur ve dijital hesaplarınızı korumak için pratik çözümler sunar. Hem güvenli hem de kullanıcı dostu bir araçtır.
 
-* **Şifre Güvenliği Analizi:** Kullanıcılarınızın şifrelerini analiz eder, güvenlik seviyesini değerlendirir.
-* **Güçlü Şifre Üretimi:** Zayıf şifreleri iyileştirir ve güçlü şifreler önerir.
-* **Kullanıcı Dostu Arayüz:** Basit ve anlaşılır bir tasarım ile kullanıcıların dijital güvenliğini sağlar.
-* **Hızlı Çözümler:** Kullanıcıların güvenli şifre üretimi için hızlı ve pratik çözümler sunar.
+[**YouTube Videomuzu İzleyin**](https://www.youtube.com/link_to_video)
+Videomuzu izleyerek Securify'nin nasıl çalıştığını ve şifrelerinizi nasıl daha güvenli hale getirebileceğinizi öğrenebilirsiniz.
 
-## Nasıl Çalışır?
+---
 
-1. **Şifre Analizi:** Kullanıcıların mevcut şifrelerini analiz eder.
-2. **Güvenli Alternatifler:** Zayıf şifreleri tespit eder ve güçlü alternatifler önerir.
-3. **Korumalı Hesaplar:** Dijital hesaplarınızı güvenli bir şekilde korumanıza yardımcı olur.
+## 🚀 **Özellikler**
 
-## Kullanım
+### 🔐 **Şifre Analizi ve Güvenlik Değerlendirmesi**
 
-1. **Adım 1:** Şifrelerinizi analiz edin.
-2. **Adım 2:** Güçlü şifreler önerisi alın.
-3. **Adım 3:** Hesaplarınızı güvenli hale getirin.
+Securify, kullanıcılarınızın şifrelerini analiz eder ve bu şifrelerin güvenlik seviyelerini değerlendirir. Zayıf şifreleri tespit ederek, güvenlik açığını azaltmak için önerilerde bulunur. Bu analiz sayesinde, şifrelerinizi daha güçlü ve tahmin edilmesi zor hale getirebilirsiniz.
 
-## Kurulum
+* **Zayıf Şifre Tespiti:** Kısa, basit veya tahmin edilebilir şifreler tespit edilir.
+* **Güvenlik Puanı:** Şifrenizin güvenlik seviyesi bir puanla değerlendirilir.
+* **Güçlü Şifre Önerileri:** Şifrenizi güçlendirmek için öneriler sunulur.
 
-Projeyi yerel makinanıza klonlamak için aşağıdaki komutu kullanabilirsiniz:
+### 🛡️ **Güvenli Şifre Üretimi**
+
+Securify, kullanıcılar için güçlü, tahmin edilmesi zor şifreler oluşturur. Şifrelerinizi güvenli bir şekilde kaydedebilir ve farklı hesaplar için şifrelerinizi rastgele oluşturabilirsiniz.
+
+### 💳 **Şifre ve Kart Bilgilerini Kaydetme**
+
+Kişisel şifrelerinizi ve kredi kartı bilgilerinizi güvenli bir şekilde saklayabilirsiniz. Securify, şifrelerinizi ve ödeme kartı bilgilerinizi şifreli bir şekilde saklar, böylece dijital hesaplarınızın güvenliğini sağlarken kolayca erişebilirsiniz.
+
+* **Şifre Kaydetme:** Şifrelerinizi güvenli bir şekilde kaydedebilir ve daha sonra kullanmak üzere saklayabilirsiniz.
+* **Kredi Kartı Bilgileri:** Ödeme bilgilerinizi hızlıca girip güvenle saklayabilirsiniz.
+
+---
+
+## 🛠️ **Nasıl Çalışır?**
+
+1. **Şifre Analizi:** Mevcut şifrenizi analiz edin ve güvenlik puanını öğrenin.
+2. **Güçlü Şifreler Üretin:** Zayıf şifreleri daha güçlü alternatiflerle değiştirin.
+3. **Şifre ve Kart Bilgilerini Kaydedin:** Güvenli bir şekilde şifrelerinizi ve ödeme kartı bilgilerinizi saklayın.
+4. **Dijital Hesaplarınızı Koruyun:** Şifrelerinizin gücünü artırarak çevrimiçi hesaplarınızı daha güvenli hale getirin.
+
+---
+
+## 📥 **Kurulum**
+
+Securify'i bilgisayarınıza kurmak için aşağıdaki adımları takip edebilirsiniz:
+
+### 1. Projeyi Klonlayın
 
 ```
 git clone https://github.com/Revhazatkn/Securify.git
 ```
 
-Kurulum talimatları için `docs` klasörüne göz atabilirsiniz.
+### 2. Gerekli Bağımlılıkları Yükleyin
+
+Projede kullanılan bağımlılıkları yüklemek için aşağıdaki komutu çalıştırın:
+
+```
+npm install
+```
+
+### 3. Uygulamayı Başlatın
+
+Uygulamayı başlatmak için:
+
+```
+npm start
+```
+
+---
+
+## 📝 **Katkıda Bulun**
+
+Projeye katkıda bulunmak için pull request göndererek kodunuzu paylaşabilirsiniz. İhtiyaç duyduğunuzda `issues` kısmından sorular sorabilir veya önerilerde bulunabilirsiniz.
+
+---
+
+**Securify**, güvenli şifre yönetimi ve analizi konusunda hızlı, etkili ve güvenli bir çözüm sunmaktadır. Dijital hesaplarınızın güvenliğini artırmak ve şifrelerinizi daha güçlü hale getirmek için Securify'i hemen kullanmaya başlayın.
