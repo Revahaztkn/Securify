@@ -4,9 +4,6 @@
 
 **Securify**, dijital güvenliğinizi bir üst seviyeye taşır. Kullanıcıların şifrelerinin güvenlik seviyesini analiz eder, güçlü şifreler oluşturmanıza yardımcı olur ve dijital hesaplarınızı korumak için pratik çözümler sunar. Hem güvenli hem de kullanıcı dostu bir araçtır.
 
-[**YouTube Videomuzu İzleyin**](https://www.youtube.com/link_to_video)
-Videomuzu izleyerek Securify'nin nasıl çalıştığını ve şifrelerinizi nasıl daha güvenli hale getirebileceğinizi öğrenebilirsiniz.
-
 ---
 
 ## 🚀 **Özellikler**
