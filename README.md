@@ -1,6 +1,5 @@
 # Securify - Güvenli Şifre Yönetimi ve Analizi
-
-![Securify Logo]([https://link_to_your_logo_image](https://aksoycati.com/wp-content/uploads/2025/11/app_logo.png))
+![](https://aksoycati.com/wp-content/uploads/2025/11/app_logo.png)
 
 **Securify**, dijital güvenliğinizi bir üst seviyeye taşır. Kullanıcıların şifrelerinin güvenlik seviyesini analiz eder, güçlü şifreler oluşturmanıza yardımcı olur ve dijital hesaplarınızı korumak için pratik çözümler sunar. Hem güvenli hem de kullanıcı dostu bir araçtır.
 
